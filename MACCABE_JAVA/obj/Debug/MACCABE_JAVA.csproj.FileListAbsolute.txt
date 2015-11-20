@@ -1,0 +1,9 @@
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\bin\Debug\MACCABE_JAVA.exe.config
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\bin\Debug\MACCABE_JAVA.exe
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\bin\Debug\MACCABE_JAVA.pdb
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\obj\Debug\MACCABE_JAVA.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\obj\Debug\MACCABE_JAVA.Form1.resources
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\obj\Debug\MACCABE_JAVA.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\obj\Debug\MACCABE_JAVA.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\obj\Debug\MACCABE_JAVA.exe
+c:\users\sasha\documents\visual studio 2015\Projects\MACCABE_JAVA\MACCABE_JAVA\obj\Debug\MACCABE_JAVA.pdb
